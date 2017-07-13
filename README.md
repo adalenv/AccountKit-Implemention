@@ -38,5 +38,5 @@ app id, secret and create db_connec.php file with db settings and $con varialble
 
 ## License
 
-This project is licensed under the Apache2 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache2 License - see the [LICENSE.md](https://github.com/adalenv/AccountKit-Implemention/blob/master/LICENSE) file for details
 
