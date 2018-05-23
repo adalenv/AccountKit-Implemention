@@ -22,7 +22,7 @@ And change
 ```
 app id, secret and create db_connec.php file with db settings and $con varialble
 ```
-
+DB not included
 ## Built With
 
 * [Account Kit API](https://developers.facebook.com/docs/accountkit) - The web framework used
